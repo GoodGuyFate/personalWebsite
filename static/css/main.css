@@ -1,0 +1,23 @@
+body{
+    background-color:#9FC2BA!important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width:120px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo-pic{
+    width:140px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;                                                                                                                                                                                                                                             
+}
